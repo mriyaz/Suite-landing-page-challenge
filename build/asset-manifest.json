@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95860496.css",
+    "main.js": "/static/js/main.9661bf33.js",
+    "static/js/453.9e0b6e9f.chunk.js": "/static/js/453.9e0b6e9f.chunk.js",
+    "static/media/image-jeremy-large.png": "/static/media/image-jeremy-large.7568e3e8e870bb0a4554.png",
+    "static/media/image-hero-portrait.png": "/static/media/image-hero-portrait.4dad9378090c290deea2.png",
+    "static/media/image-jeremy-small.png": "/static/media/image-jeremy-small.def3549ba8d843fc5af8.png",
+    "static/media/image-hero-landscape.png": "/static/media/image-hero-landscape.f15ce7d15d761d6e51f5.png",
+    "static/media/logo.svg": "/static/media/logo.4dfe9487ba72fe85d2bff53029645830.svg",
+    "static/media/icon-instagram.svg": "/static/media/icon-instagram.61f109bd84c28852678539deebfc5309.svg",
+    "index.html": "/index.html",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.b7b383adeb0f50988ab11b5d28bcb9d6.svg",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.96b92c21d120825be32fa767879dd1b0.svg",
+    "static/media/pattern-curved-line-2.svg": "/static/media/pattern-curved-line-2.b3e7a600581015c6814002a2b1b5992d.svg",
+    "static/media/pattern-curved-line-1.svg": "/static/media/pattern-curved-line-1.737baf08aa1b342f22c34fc8ba6387cb.svg",
+    "main.95860496.css.map": "/static/css/main.95860496.css.map",
+    "main.9661bf33.js.map": "/static/js/main.9661bf33.js.map",
+    "453.9e0b6e9f.chunk.js.map": "/static/js/453.9e0b6e9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95860496.css",
+    "static/js/main.9661bf33.js"
+  ]
+}
