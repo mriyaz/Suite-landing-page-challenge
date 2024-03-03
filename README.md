@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/suite-landing-page-challenge)
-- [Live Site URL](https://suite-landing-page-challenge-1.vercel.app/)
+- [Live Site URL](https://suite-landing-page-challenge.vercel.app/)
 
 
 ## My process
